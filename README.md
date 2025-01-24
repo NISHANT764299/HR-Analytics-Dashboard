@@ -1,8 +1,8 @@
-📊 HR Analytics Dashboard – Indian Job Market (Tableau)
+📊 HR Analytics Dashboard – (Tableau)
 
 
 📝 Project Overview
-This HR Analytics Dashboard, built using Tableau, provides key workforce insights into the Indian job market. It helps HR professionals and businesses analyze hiring trends, attrition rates, salary distributions, and workforce diversity to make data-driven decisions.
+This HR Analytics Dashboard, built using Tableau, provides key workforce insights into the HR dataset. It helps HR professionals and businesses analyze hiring trends, attrition rates, salary distributions, and workforce diversity to make data-driven decisions.
 
 🚀 Key Features
 ✅ Job Market Trends – Analyze hiring demand across different industries and roles
@@ -13,5 +13,5 @@ This HR Analytics Dashboard, built using Tableau, provides key workforce insight
 
 🛠️ Tools & Technologies
 Tableau – Data visualization and dashboard creation
-Data Source – Indian job market dataset
+Data Source – HR dataset
 Excel/CSV – Data preprocessing
